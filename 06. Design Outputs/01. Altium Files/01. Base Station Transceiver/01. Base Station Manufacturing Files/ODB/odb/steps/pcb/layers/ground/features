@@ -1,0 +1,27 @@
+UNITS=MM
+#Layer_Physical_Order=2
+#Layer_Color=16765976
+#
+#Feature symbol names
+#
+$0 r1270
+
+#
+#Feature attribute names
+#
+@0 .geometry
+@1 .pad_usage
+
+#
+#Feature attribute text strings
+#
+&0 VIA_RoundD1270.0000H711.2000C1727.2000
+
+#
+#Layer features
+#
+P 28.067 86.868 0 P 0 0 ;0=0,1=1
+P 32.893 113.792 0 P 0 0 ;0=0,1=1
+P 33.782 104.775 0 P 0 0 ;0=0,1=1
+P 50.546 105.918 0 P 0 0 ;0=0,1=1
+P 63.119 87.757 0 P 0 0 ;0=0,1=1

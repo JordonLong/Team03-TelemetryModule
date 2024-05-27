@@ -1,0 +1,7 @@
+Layer Pairs Export File for PCB: C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\TelemetrySystem.CMPcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=telemetrysystem.txt|DrillLayers=gtl,gp1,g1,gp2,gp3,g2,gbl
+LayersSetName=Top_+3.3V Plane_Blind_Vias|DrillFile=telemetrysystem.tx1|DrillLayers=gtl,gp1
+LayersSetName=Top_EW2_Blind_Vias|DrillFile=telemetrysystem.tx2|DrillLayers=gtl,gp1,g1
+LayersSetName=Top_+1.2V Plane_Blind_Vias|DrillFile=telemetrysystem.tx3|DrillLayers=gtl,gp1,g1,gp2
+LayersSetName=Top_GND Plane_Blind_Vias|DrillFile=telemetrysystem.tx4|DrillLayers=gtl,gp1,g1,gp2,gp3
+LayersSetName=Top_EW1_Blind_Vias|DrillFile=telemetrysystem.tx5|DrillLayers=gtl,gp1,g1,gp2,gp3,g2

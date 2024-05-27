@@ -1,0 +1,62 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TelemetrySystem.CMPcbDoc   15/05/2024  9:25:45 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TelemetrySystem.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      0.65mm (26mil)                                            Round             4         PTH        3.81mm (0.15inch)
+T3      0.71mm (28mil)                                            Round             5         PTH        89.32mm (3.52inch)
+T4      0.76mm (30mil)                                            Round             4         PTH        33.65mm (1.33inch)
+T5      0.89mm (35mil)                                            Round             20        PTH        58.12mm (2.29inch)
+T6      1.2mm (47mil)                                             Round             4         PTH        75.43mm (2.97inch)
+T7      3.2mm (126mil)                                            Round             4         NPTH       249.59mm (9.83inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              41
+Layer Pair : Top Layer to +3.3V Plane
+ASCII RoundHoles File : TelemetrySystem.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T3      0.71mm (28mil)                                            Round             6         PTH        109.33mm (4.30inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              6
+Layer Pair : Top Layer to EW2
+ASCII RoundHoles File : TelemetrySystem.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T3      0.71mm (28mil)                                            Round             13        PTH        92.35mm (3.64inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              13
+Layer Pair : Top Layer to +1.2V Plane
+ASCII RoundHoles File : TelemetrySystem.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T3      0.71mm (28mil)                                            Round             3         PTH        31.82mm (1.25inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              3
+Layer Pair : Top Layer to GND Plane
+ASCII RoundHoles File : TelemetrySystem.TX4
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T3      0.71mm (28mil)                                            Round             16        PTH        245.73mm (9.67inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              17
+Layer Pair : Top Layer to EW1
+ASCII RoundHoles File : TelemetrySystem.TX5
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T3      0.71mm (28mil)                                            Round             34        PTH        291.04mm (11.46inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              34
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              114
+
+Total Processing Time (hh:mm:ss) : 00:00:00

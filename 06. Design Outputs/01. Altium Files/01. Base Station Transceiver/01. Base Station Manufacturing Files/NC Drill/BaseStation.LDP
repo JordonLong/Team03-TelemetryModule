@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\BaseStation.CMPcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=basestation-roundholes.txt|DrillLayers=gtl,g1,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=basestation-slotholes.txt|DrillLayers=gtl,g1,gbl
+LayersSetName=Top_Ground_Blind_Vias|DrillFile=basestation-roundholes.tx1|DrillLayers=gtl,g1

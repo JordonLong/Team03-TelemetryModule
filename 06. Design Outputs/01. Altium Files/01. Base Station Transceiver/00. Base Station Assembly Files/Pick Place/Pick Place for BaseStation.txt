@@ -1,0 +1,32 @@
+Altium Designer Pick and Place Locations
+C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for BaseStation.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/05/24
+Time:       21:49
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator  Comment                                                    Layer    Footprint                     Center-X(mm) Center-Y(mm) Rotation Description                                                                                          Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+BUTTON      "TE Connectivity / Alcoswitch FSM8JH"                      TopLayer PCB-nybc64yyco8ubzlhb10m-1    42.7470      111.0340     90       "Switch Tactile OFF (ON) SPST Extended Round Button PC Pins 0.05A 12VDC 1.57N Thru-Hole Loose Piece" 39.4970   113.2840  39.4970   113.2840  
+USBC        "Molex 213716-0001"                                        TopLayer Molex_213716-0001-Footprint-1 29.4250      101.5950     270      "Connector USB Type C Receptacle 16 Position 0.5mm Surface Mount Right Angle Emboss T/R"             28.2000   101.5950  31.7500   104.5700  
+L2          "Dialight 597-6401-607F"                                   TopLayer PCB-z3aqqik84ptkezzfxljl-1    57.9120      111.6330     90       "LED Uni-Color Yellow 588nm 2-Pin Chip 1206(3216Metric) T/R"                                         57.9120   111.6330  57.9120   110.3330  
+L1          "Dialight 597-6401-607F"                                   TopLayer PCB-z3aqqik84ptkezzfxljl-1    62.7380      111.6330     90       "LED Uni-Color Yellow 588nm 2-Pin Chip 1206(3216Metric) T/R"                                         62.7380   111.6330  62.7380   110.3330  
+R6          "TE Connectivity / AMP 1623212-1"                          TopLayer PCB-kopdzqzjpr9jbzqzh48a-1    46.3550      90.3605      90       "Res Thick Film 0805 3K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD T/R"                                   46.3550   90.3605   46.3550   89.4080   
+R5          "TE Connectivity / AMP 1623212-1"                          TopLayer PCB-kopdzqzjpr9jbzqzh48a-1    42.6720      90.3605      90       "Res Thick Film 0805 3K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD T/R"                                   42.6720   90.3605   42.6720   89.4080   
+R4          "TE Connectivity / AMP 1623212-1"                          TopLayer PCB-kopdzqzjpr9jbzqzh48a-1    39.4970      90.2970      90       "Res Thick Film 0805 3K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD T/R"                                   39.4970   90.2970   39.4970   89.3445   
+R2          "TE Connectivity / AMP 1623212-1"                          TopLayer PCB-kopdzqzjpr9jbzqzh48a-1    33.5280      90.2970      90       "Res Thick Film 0805 3K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD T/R"                                   33.5280   90.2970   33.5280   89.3445   
+R1          "TE Connectivity / AMP 1623212-1"                          TopLayer PCB-kopdzqzjpr9jbzqzh48a-1    30.4800      90.2970      90       "Res Thick Film 0805 3K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD T/R"                                   30.4800   90.2970   30.4800   89.3445   
+"3.3V REG"  "Diodes AP2112K-3.3TRG1"                                   TopLayer SOT23-5_D                     29.8450      111.2520     90       "AP2112 Series 0.6 A 3.3 V Fixed Output SMT LDO Linear Regulator - SOT23-5"                          29.8450   111.2520  31.1452   110.3020  
+3.3V_Base_C "Samsung CL05A105KQ5NNNC"                                  TopLayer PCB-k5j45vo9cynmpwks6drn-1    34.1630      110.5480     90       "Ceramic capacitor SMD-0402 1000nF /6.3V X5R# K +-10%, Samsung, RoHS"                                34.1630   110.5480  34.1630   110.0980  
+5V_Base_C   "Samsung CL05A105KQ5NNNC"                                  TopLayer PCB-k5j45vo9cynmpwks6drn-1    35.9410      110.5480     90       "Ceramic capacitor SMD-0402 1000nF /6.3V X5R# K +-10%, Samsung, RoHS"                                35.9410   110.5480  35.9410   110.0980  
+R3          "TE Connectivity / AMP 1623212-1"                          TopLayer PCB-kopdzqzjpr9jbzqzh48a-1    36.4490      90.2970      90       "Res Thick Film 0805 3K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD T/R"                                   36.4490   90.2970   36.4490   89.3445   
+L0          "Dialight 597-6401-607F"                                   TopLayer PCB-z3aqqik84ptkezzfxljl-1    52.7050      111.6030     90       "LED Uni-Color Yellow 588nm 2-Pin Chip 1206(3216Metric) T/R"                                         52.7050   111.6030  52.7050   110.3030  
+Xbee_Base   XBP9B-DMST-022                                             TopLayer PCBComponent_1_-_duplicate    67.0687      95.3262      270      "General ISM < 1GHz Transceiver Module 900MHz Antenna Not Included, RP-SMA Through Hole"             50.9016   107.5182  76.0984   106.3244  
+C3_Base     10uF                                                       TopLayer CAPC3225X210X50ML20T25        66.8020      111.5060     90       "Cap Ceramic 10uF 35V X5R 20% SMD 1210 85C Plastic T/R"                                              66.8020   111.5060  66.8020   110.0060  
+C2_Base     1uF                                                        TopLayer CAPC3216X110X50ML20T25        71.2470      111.6330     90       "Capacitor 1206 1uF 50V"                                                                             71.2470   111.6330  71.2470   110.1330  
+C1_Base     47pF                                                       TopLayer CAPC2013X88X50LL20T25         74.6760      112.4600     90       "Multilayer Ceramic Capacitors MLCC - SMD/SMT 100volts 47pF C0G 5%"                                  74.6760   112.4600  74.6760   111.7600  
+SRLCONV     "Future Technology Devices International (FTDI) FT231XS-R" TopLayer SSOP20_L                      42.2910      101.0920     180      "USB Full Speed to Full Handshake UART with USB Charger Detection"                                   42.2910   101.0920  45.1485   103.7717  

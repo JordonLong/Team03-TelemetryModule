@@ -1,0 +1,232 @@
+*************************************************************
+FileName = TelemetrySystem.CMPcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_6\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_6\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\_3.3v_plane\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\_3.3v_plane\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_4\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_4\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_2\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\_1.2v_plane\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\_1.2v_plane\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\gnd_plane\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\gnd_plane\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_5\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_5\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\ew1\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\ew1\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-mid1\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-mid1\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-mid1\tools
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-mid2\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-mid2\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-mid2\tools
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-plane1\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-plane1\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-plane1\tools
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-plane3\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-plane3\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-plane3\tools
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-plane2\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-plane2\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_top-plane2\tools
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-mid2\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-mid2\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-mid1\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-mid1\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-plane1\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-plane1\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-plane2\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-plane2\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-plane3\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-plane3\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-mid2\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-mid2\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-mid1\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-mid1\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-plane2\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-plane2\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-plane1\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-plane1\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-plane3\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-plane3\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\mechanical_4\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\mechanical_4\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\mechanical_10\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\mechanical_10\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\3d_top\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\3d_top\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\courtyard_bottom\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\courtyard_bottom\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\courtyard_top\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\courtyard_top\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\mechanical_27\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\mechanical_27\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\assembly_text_top\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\assembly_text_top\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_3\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_3\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dimensions\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dimensions\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dimensions_top\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dimensions_top\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\ew2\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\ew2\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\assembly_top\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\assembly_top\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\outline\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\outline\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\jordo\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\matrix\matrix
+

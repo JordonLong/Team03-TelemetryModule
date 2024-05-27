@@ -1,0 +1,1592 @@
+*************************************************************
+FileName = TelemetrySystem.GBR
+AutoAperture = True
+*************************************************************
+Generating : Courtyard Bottom
+      File : TelemetrySystem.GM16
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : TelemetrySystem.GM1
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Courtyard Top
+      File : TelemetrySystem.GM15
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : 3D Top
+      File : TelemetrySystem.GM13
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Dimensions Top
+      File : TelemetrySystem.GM11
+
+    Adding Layer      : Dimensions Top
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D135
+    D136
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : TelemetrySystem.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : TelemetrySystem.GM10
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Assembly Text Top
+      File : TelemetrySystem.GM6
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : TelemetrySystem.GM4
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : TelemetrySystem.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : TelemetrySystem.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : TelemetrySystem.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : TelemetrySystem.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : TelemetrySystem.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : +3.3V Plane
+      File : TelemetrySystem.GP1
+
+    Adding Layer      : +3.3V Plane
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D114
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+*************************************************************
+
+*************************************************************
+Generating : EW1
+      File : TelemetrySystem.G2
+
+    Adding Layer      : EW1
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D123
+    D126
+*************************************************************
+
+*************************************************************
+Generating : GND Plane
+      File : TelemetrySystem.GP3
+
+    Adding Layer      : GND Plane
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D114
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : TelemetrySystem.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+*************************************************************
+
+*************************************************************
+Generating : Assembly Top
+      File : TelemetrySystem.GM8
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : TelemetrySystem.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : EW2
+      File : TelemetrySystem.G1
+
+    Adding Layer      : EW2
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D126
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : TelemetrySystem.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+*************************************************************
+
+*************************************************************
+Generating : +1.2V Plane
+      File : TelemetrySystem.GP2
+
+    Adding Layer      : +1.2V Plane
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D114
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : TelemetrySystem.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : TelemetrySystem.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : TelemetrySystem.GD1
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D137
+    D138
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : TelemetrySystem.GD2
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Drill Pair : Top Layer-EW1
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : TelemetrySystem.GD3
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Drill Pair : Top Layer-EW2
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : TelemetrySystem.GD4
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Drill Pair : Top Layer-GND Plane
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : TelemetrySystem.GD5
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Drill Pair : Top Layer-+1.2V Plane
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : TelemetrySystem.GD6
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Drill Pair : Top Layer-+3.3V Plane
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : TelemetrySystem.GG1
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : TelemetrySystem.GG2
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Drill Pair : Top Layer-EW1
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : TelemetrySystem.GG3
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Drill Pair : Top Layer-EW2
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : TelemetrySystem.GG4
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Drill Pair : Top Layer-GND Plane
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : TelemetrySystem.GG5
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Drill Pair : Top Layer-+1.2V Plane
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : TelemetrySystem.GG6
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Assembly Text Top
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : 3D Top
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Courtyard Bottom
+
+    Adding Drill Pair : Top Layer-+3.3V Plane
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D14
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D137
+*************************************************************
+

@@ -1,0 +1,118 @@
+NEMA Output: RMC (Recommended Minimum Specific GNSS senstence)   
+Packet: 314 PMTK_API_SET_NMEA_OUTPUT
+// PMTK command to be sent
+pmtk_command = $PMTK314,1,1,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0*2C<CR><LF>
+// Send the command to the GPS module
+def configure_output_packet():
+    ser.write(pmtk_command.encode)
+    print("PMTK command sent to GPS module")
+
+
+Standby Mode: 
+Packet: 161 PMTK_CMD_STANDBY_MODE
+//Command to enter standby mode
+standby_command = $PMTK161,0*28<CR><LF>
+// Function to send command to MT3339 chip
+def send_standby_command():
+    ser.write(standby_command.encode)
+    print("Standby command sent to MT3339 chip")
+Example Command:
+$PMTK161,0*28<CR><LF>
+
+
+Frequency of Data Storage: 
+Packet: 187 PMTK_LOCUS_CONFIG
+// Function to configure LOCUS setting
+def configure_locus(mode, interval):
+    // Construct the command string
+    command = $PMTK286,{mode},{interval}*38<CR><LF>
+    // Send the command to the MT3339 chip
+    ser.write(command.encode)
+    print("LOCUS configured to mode {mode} with interval {interval} seconds.")
+Example Command: Record every 5 seconds
+$PMTK187,1,5*38<CR><LF>
+
+
+Periodic Transmission
+Packet: PMTK_CMD_PERIODIC_MODE
+// Function to send periodic mode command to GPS module
+def send_periodic_mode_command(packet_type, run_time1, sleep_time1 run_time2, sleep_time2):
+    // Construct the command string
+    command = $PMTK223,{packet_type},{Run_time1},{Sleep_time1},{Run_time2}{Sleep_time2}*38<CR><LF>
+    // Send the command to the MT3339 chip
+    ser.write(command.encode())
+Example Command: (1ms ON, 25ms SLEEP then 180000ms ON, 60000 SLEEP)
+$PMTK223,1,25,180000,60000*38<CR><LF>
+
+
+Enable SBAS
+Packet: 313 PMTK_API_SET_SBAS_ENABLED
+// Function to enable or disable SBAS search
+def set_sbas_enabled(enable):
+    command = $PMTK313,{int(enable)}*2E<CR><LF>'    
+    // Send the command to the MT3339 chip
+    ser.write(command.encode())
+Example Command: Enable SBAS
+$PMTK313,1*2E<CR><LF>
+
+ 
+Active Interference Cancellation (AIC, Narrowband)
+Packet: 286 PMTK_CMD_AIC_MODE
+// Function to enable or disable AIC
+def set_aic_mode(enable):
+    // Construct the command string
+    command = $PMTK286,{int(enable)}*23<CR><LF>
+    // Send the command to the chipset
+    ser.write(full_command.encode)
+Example Command: Enable AIC
+$PMTK286,1*23<CR><LF>
+
+ 
+Clear Internally Stored Data
+Packet: 127 PMTK_CMD_CLEAR_EPO
+// Command to clear EPO data
+clear_epo_command = $PMTK127*36<CR><LF>
+// Function to send command to GPS module
+def send_clear_epo_command():
+    ser.write(clear_epo_command.encode)
+    print("Clear EPO command sent to GPS module")
+
+
+Hot Start
+Packet: 101 PMTK_CMD_HOT_START
+// Command for Hot Start
+hot_start_command = $PMTK101*32<CR><LF>
+// Function to send Hot Start command to the GPS module
+def send_hot_start_command():
+    ser.write(hot_start_command.encode)
+    print("Hot Start command sent to GPS module")
+
+
+Warm Start
+Packet: 102 PMTK_CMD_WARM_START
+// Command for Warm Start
+warm_start_command = $PMTK102*31<CR><LF>
+// Function to send Warm Start command to the GPS module
+def send_warm_start_command():
+    ser.write(warm_start_command.encode)
+    print("Warm Start command sent to GPS module")
+ 
+
+Cold Start
+Packet: 103 PMTK_CMD_COLD_START
+// Command for Cold Start
+cold_start_command = $PMTK103*30\<CR><LF>
+// Function to send Cold Start command to the GPS module
+def send_cold_start_command():
+    ser.write(cold_start_command.encode)
+    print("Cold Start command sent to GPS module.")
+1.1.8.4	Full Cold Start
+Packet: 104 PMTK_CMD_FULL_COLD_START
+
+
+Full Cold Start
+full_cold_start_command = $PMTK104*37<CR><LF>
+// Function to send Full Cold Start command to the GPS module
+def send_full_cold_start_command():
+    ser.write(full_cold_start_command.encode)
+    print("Full Cold Start command sent to GPS module")
